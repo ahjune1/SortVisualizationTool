@@ -5,9 +5,8 @@ import java.awt.*;
 
 public class Main {
 
-    private GUI gui;
     public Main() {
-        gui = new GUI();
+        new GUI();
     }
 
     public static void main(String[] args) {
