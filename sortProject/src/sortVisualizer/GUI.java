@@ -1,5 +1,4 @@
-import sortVisualizer.Panel;
-import sortVisualizer.SortManager;
+package sortVisualizer;
 
 import javax.swing.*;
 import java.awt.*;

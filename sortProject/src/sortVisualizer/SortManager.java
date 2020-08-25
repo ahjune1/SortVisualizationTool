@@ -1,4 +1,4 @@
-import sortVisualizer.Panel;
+package sortVisualizer;
 
 import java.util.ArrayList;
 
