@@ -1,4 +1,4 @@
-package sortVisualizer;
+import sortVisualizer.SortManager;
 
 import javax.swing.*;
 import java.awt.*;
